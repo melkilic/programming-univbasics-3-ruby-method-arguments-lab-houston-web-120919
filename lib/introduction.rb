@@ -5,6 +5,8 @@
 def introduction(name)
   name= Maria
   puts "Hi,my name is #{name}."
+end
+ introduction
 
 
 
